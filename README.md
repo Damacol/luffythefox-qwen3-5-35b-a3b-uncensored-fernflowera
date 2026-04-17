@@ -1,4 +1,4 @@
-# LuffyTheFox/Qwen3.5-35B-A3B-Uncensored-FernflowerAI-safetensors - Private, Uncensored AI for Real Creators and Devs
+# LuffyTheFox/Qwen3.5-35B-A3B-Uncensored-FernflowerAI-safetensors  - Private, Uncensored AI for Real Creators and Devs
 
 > Tired of AI that babysits you, logs your prompts, or hits you with "I can't do that"?
 > Meet the next-gen chatbot built for freedom, speed, and digital sovereignty.
